@@ -1,0 +1,14 @@
+/Users/bthiewes/Source/cognito-example/bin/Debug/netcoreapp2.2/cognito-example.deps.json
+/Users/bthiewes/Source/cognito-example/bin/Debug/netcoreapp2.2/cognito-example.runtimeconfig.json
+/Users/bthiewes/Source/cognito-example/bin/Debug/netcoreapp2.2/cognito-example.runtimeconfig.dev.json
+/Users/bthiewes/Source/cognito-example/bin/Debug/netcoreapp2.2/cognito-example.dll
+/Users/bthiewes/Source/cognito-example/bin/Debug/netcoreapp2.2/cognito-example.pdb
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.csprojAssemblyReference.cache
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.csproj.CoreCompileInputs.cache
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.RazorAssemblyInfo.cache
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.RazorAssemblyInfo.cs
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.AssemblyInfoInputs.cache
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.AssemblyInfo.cs
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.RazorTargetAssemblyInfo.cache
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.dll
+/Users/bthiewes/Source/cognito-example/obj/Debug/netcoreapp2.2/cognito-example.pdb
